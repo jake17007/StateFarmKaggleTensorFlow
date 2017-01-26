@@ -2,3 +2,4 @@ imgs/
 imgsTest/
 *.pickle
 *.pyc
+.gitignore

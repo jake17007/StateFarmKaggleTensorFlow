@@ -1,5 +1,4 @@
 imgs/
 imgsTest/
-driver_imgs_list.csv
-driver_imgs_list.csv.zip
-imgs.zip
+*.pickle
+*.pyc
