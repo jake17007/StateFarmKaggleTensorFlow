@@ -3,3 +3,4 @@ imgsTest/
 *.pickle
 *.pyc
 .gitignore
+*.csv
